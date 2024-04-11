@@ -108,11 +108,10 @@ const CONFIG = {
   ],
   educations: [
     {
-      company: 'CSU Stanislaus',
-      position: 'Undergraduate Student',
-      from: 'August 2020',
-      to: 'Present',
-      companyLink: 'https://www.csustan.edu',
+      institution: 'CSU Stanislaus',
+      degree: 'B.S. in Biological Sciences',
+      from: '2020',
+      to: '2024',
     },
   ],
   publications: [
