@@ -77,7 +77,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://aswatkins3.github.io/pdf/CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/Aswatkins3/aswatkins3.github.io/raw/main/pdf/CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Gene Annotation', 'Microbiology Lab Techniques', 'Writing'
