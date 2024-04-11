@@ -84,13 +84,6 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'CSU Stanislaus',
-      position: 'Undergraduate Student',
-      from: 'August 2020',
-      to: 'Present',
-      companyLink: 'https://www.csustan.edu',
-    },
-    {
       company: 'CSU Stanislaus - Learning Commons',
       position: 'Peer Tutor',
       from: 'August 2022',
@@ -115,16 +108,11 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'CSU Fresno',
-      degree: 'MBA',
-      from: '2020',
-      to: '2024',
-    },
-    {
-      institution: 'University of Texas at San Antonio',
-      degree: 'PhD',
-      from: '2007',
-      to: '2012',
+      company: 'CSU Stanislaus',
+      position: 'Undergraduate Student',
+      from: 'August 2020',
+      to: 'Present',
+      companyLink: 'https://www.csustan.edu',
     },
   ],
   publications: [
