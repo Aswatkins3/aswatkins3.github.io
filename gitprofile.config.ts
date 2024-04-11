@@ -80,7 +80,7 @@ const CONFIG = {
       'https://aswatkins3.github.io/pdf/CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PCR', 'Bioinformatics', 'Teaching'
+    'Gene Annotation', 'Microbiology Lab Techniques', 'Writing'
   ],
   experiences: [
     {
@@ -91,11 +91,18 @@ const CONFIG = {
       companyLink: 'https://www.csustan.edu',
     },
     {
-      company: 'CSU Fresno',
-      position: 'Assistant/Associate Professor',
-      from: 'August 2015',
-      to: 'August 2022',
-      companyLink: 'https://www.fresnostate.edu',
+      company: 'CSU Stanislaus - Learning Commons',
+      position: 'Peer Tutor',
+      from: 'August 2022',
+      to: 'present',
+      companyLink: 'https://www.csustan.edu/learning-commons',
+    },
+    {
+      company: 'CSU Stanislaus',
+      position: 'Internship in Biology',
+      from: 'August 2023',
+      to: 'December 2023',
+      companyLink: '',
     },
   ],
   certifications: [
