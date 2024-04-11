@@ -85,8 +85,8 @@ const CONFIG = {
   experiences: [
     {
       company: 'CSU Stanislaus',
-      position: 'Assistant Professor',
-      from: 'August 2022',
+      position: 'Undergraduate Student',
+      from: 'August 2020',
       to: 'Present',
       companyLink: 'https://www.csustan.edu',
     },
